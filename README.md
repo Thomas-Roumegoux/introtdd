@@ -1,2 +1,2 @@
 # introtdd
-réalisez avec rado,hannane et mathieu.
+exercices réalisés avec rado,hannane et mathieu.
